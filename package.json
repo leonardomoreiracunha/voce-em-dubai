@@ -1,0 +1,22 @@
+{
+  "name": "voce-em-dubai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomoreiracunha/voce-em-dubai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardomoreiracunha/voce-em-dubai/issues"
+  },
+  "homepage": "https://github.com/leonardomoreiracunha/voce-em-dubai#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
